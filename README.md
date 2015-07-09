@@ -10,7 +10,7 @@ There are three possible ways:
 
 1. Install the extension via the Extension Manager in Brackets: ```File -> Extension Manager -> search for 'mi-wordwrap'```
 2. Copy the url of this repository and paste it into ```File -> Extension Manager -> Install from URL```
-3. [Download the code](https://github.com/konstantinkobs/brackets-colorHints/archive/master.zip) and extract it to the Extensions Folder: ```Help -> Show Extension Folder -> user```
+3. [Download the code](https://github.com/tnga/mi_brackets-wordwrap/archive/master.zip) and extract it to the Extensions Folder: ```Help -> Show Extension Folder -> user```
 
 ##The MIT License (MIT)
 
