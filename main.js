@@ -2,7 +2,7 @@
  * Copyright (c) july-2015 Tindo Ngoufo Arsel.
  * 
  * Licence: The MIT License (MIT).
- * Web    : https://
+ * Web    : https://github.com/tnga/mi_brackets-wordwrap
  * Email  : tngatransporteur@gmail.com
  * 
  */
