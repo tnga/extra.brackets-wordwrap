@@ -4,7 +4,7 @@
     "description": "Simple extension that can set enable/disable word-wrap in brackets editor",
     "version": "1.0.0",
     "author": "Tindo Ngoufo Arsel <devtnga@gmail.com>",
-    "homepage": "https://github.com/tngarsel/brackets-github-theme",
+    "homepage": "https://github.com/tnga/mi_brackets-wordwrap",
     "repository": {
         "type": "git",
         "url": "git://github.com/tngarsel/brackets-github-theme.git"
