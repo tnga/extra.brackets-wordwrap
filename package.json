@@ -7,7 +7,7 @@
     "homepage": "https://github.com/tnga/mi_brackets-wordwrap",
     "repository": {
         "type": "git",
-        "url": "git://github.com/tngarsel/brackets-github-theme.git"
+        "url": "https://github.com/tnga/mi_brackets-wordwrap.git"
     },
     "engines": {
         "brackets": ">=0.44.0"
