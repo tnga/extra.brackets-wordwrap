@@ -1,0 +1,15 @@
+{
+    "title": "MI word-wrap",
+    "name": "mi-wordwrap",
+    "description": "Simple extension that can set enable/disable word-wrap in brackets editor",
+    "version": "1.0.0",
+    "author": "Tindo Ngoufo Arsel <tngatransporteur@gmail.com>",
+    "homepage": "https://github.com/tngarsel/brackets-github-theme",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tngarsel/brackets-github-theme.git"
+    },
+    "engines": {
+        "brackets": ">=0.44.0"
+    },
+}
