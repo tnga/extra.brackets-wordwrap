@@ -3,7 +3,7 @@
  * 
  * Licence: The MIT License (MIT).
  * Web    : https://github.com/tnga/mi_brackets-wordwrap
- * Email  : tngatransporteur@gmail.com
+ * Email  : devtnga@gmail.com
  * 
  */
 
