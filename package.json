@@ -16,10 +16,13 @@
     "i18n": ["en", "es", "it", "fr"],
     "package-i18n": {
         "es": {
-             "description": "Una simple extensión que permite activar / desactivar ajuste de línea (word-wrap) editor Brackets."
+             "description": "Una simple extensión que permite activar / desactivar ajuste de línea (word-wrap) en editor Brackets."
+        },
+        "de": {
+            "description": "Einfache Erweiterung die eingestellt werden können aktivieren / deaktivieren Zeilenumbruch in Brackets Editor."
         },
         "it": {
-             "description": "Una semplice estensione che permette attivare / disattivare a capo automatico (word-wrap) editor Brackets."
+             "description": "Una semplice estensione che permette attivare / disattivare a capo automatico (word-wrap) in editor Brackets."
         },
         "fr": {
              "description": "Une simple extension qui permet d’activer / désactiver le renvoi automatique à la ligne (word-wrap) dans l'éditeur de Brackets."
