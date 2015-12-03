@@ -2,7 +2,7 @@
     "title": "MI word-wrap",
     "name": "mi-wordwrap",
     "description": "Simple extension that can set enable / disable word-wrap in brackets editor",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Tindo Ngoufo Arsel <devtnga@gmail.com>",
     "homepage": "https://github.com/tnga/extra.brackets-wordwrap",
     "keywords": ["editor", "document", "word-wrap"],
