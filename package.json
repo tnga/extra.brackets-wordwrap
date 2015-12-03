@@ -13,7 +13,7 @@
     "engines": {
         "brackets": ">=0.44.0"
     },
-    "i18n": ["en", "es", "it", "fr"],
+    "i18n": ["en", "es", "de", "it", "fr"],
     "package-i18n": {
         "es": {
              "description": "Una simple extensión que permite activar / desactivar ajuste de línea (word-wrap) en editor Brackets."
